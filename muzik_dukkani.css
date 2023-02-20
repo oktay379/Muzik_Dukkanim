@@ -1,0 +1,32 @@
+.text-red {         
+    color: red;
+}
+
+.text-yellow {
+    color: peru;
+}
+
+#text_purple {
+    color: purple;
+}
+
+main {
+    margin-left: 30rem;
+    font-family: 'Righteous', cursive;
+}
+
+footer {
+
+    font-family: 'Righteous', cursive;
+    color: darkred;
+}
+
+article {
+    font-family: 'Righteous', cursive;
+}
+
+.alt_satir {
+    margin-left: 5rem;
+    font-family: 'Righteous', cursive;
+}
+
